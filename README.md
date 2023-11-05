@@ -11,7 +11,8 @@ int i; // дополнительная переменная
         index = i;  // запомнить позицию максимального элемента
     }
 //
+![280020626_1ef08a3c_87ca_4d89_ae87_e1763ccd2a99 (3)](https://github.com/Saposhnik228/osint-task-prep/assets/130839125/81f8fb57-05f3-4075-ab8e-86ad2d089f04)
 
-![280020626_1ef08a3c_87ca_4d89_ae87_e1763ccd2a99](https://github.com/Saposhnik228/osint-task-prep/assets/130839125/eaa87ef9-bdb7-4276-8e73-b1f28cddd654)
+
 
 
