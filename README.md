@@ -12,5 +12,6 @@ int i; // дополнительная переменная
     }
 //
 
+![280020626_1ef08a3c_87ca_4d89_ae87_e1763ccd2a99](https://github.com/Saposhnik228/osint-task-prep/assets/130839125/eaa87ef9-bdb7-4276-8e73-b1f28cddd654)
 
 
